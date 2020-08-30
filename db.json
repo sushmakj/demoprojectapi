@@ -2,19 +2,34 @@
   "project": [
     {
       "id": 10,
-      "name": "xyz_analysis",
-      "user_id": [
-        1101,
-        1102
+      "name": "REDSTONE",
+      "persons": [
+        {
+          "name": "John",
+          "person_id": 1101
+        },
+        {
+          "name": "Shane",
+          "person_id": 1102
+        }
       ]
     },
     {
       "id": 11,
-      "name": "gh-testing",
-      "user_id": [
-        1102,
-        1103,
-        1101
+      "name": "CHAKRA",
+      "persons": [
+        {
+          "name": "John",
+          "person_id": 1101
+        },
+        {
+          "name": "Shane",
+          "person_id": 1102
+        },
+        {
+          "name": "Stacy",
+          "person_id": 1103
+        }
       ]
     }
   ]
