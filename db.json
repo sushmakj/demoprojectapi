@@ -6,10 +6,12 @@
       "persons": [
         {
           "name": "John",
+          "type": "team_member",
           "person_id": 1101
         },
         {
           "name": "Shane",
+          "type": "team_member",
           "person_id": 1102
         }
       ]
@@ -20,14 +22,17 @@
       "persons": [
         {
           "name": "John",
+          "type": "team_member",
           "person_id": 1101
         },
         {
           "name": "Shane",
+          "type": "team_member",
           "person_id": 1102
         },
         {
           "name": "Stacy",
+          "type": "team_member",
           "person_id": 1103
         }
       ]
