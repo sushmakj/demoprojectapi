@@ -10,21 +10,6 @@
           "person_id": 1101
         },
         {
-          "name": "Jiya",
-          "type": "team_member",
-          "person_id": 1102
-        },
-        {
-          "name": "Shane",
-          "type": "team_member",
-          "person_id": 1104
-        },
-        {
-          "name": "Deep",
-          "type": "team_member",
-          "person_id": 1103
-        },
-        {
           "name": "Sam",
           "type": "team_member",
           "person_id": 1107
@@ -33,11 +18,6 @@
           "name": "Thomas",
           "type": "team_member",
           "person_id": 1108
-        },
-        {
-          "name": "Martin",
-          "type": "team_member",
-          "person_id": 1105
         }
       ]
     },
@@ -51,35 +31,20 @@
           "person_id": 1101
         },
         {
-          "name": "Shane",
+          "name": "Gracy",
           "type": "team_member",
-          "person_id": 1104
+          "person_id": 1106
         },
         {
-          "name": "Sam",
+          "name": "Jiya",
           "type": "team_member",
-          "person_id": 1107
+          "person_id": 1102
         },
         {
           "name": "Zishan",
           "type": "team_member",
           "person_id": 1109
         },
-        {
-          "name": "Gracy",
-          "type": "team_member",
-          "person_id": 1106
-        },
-        {
-          "name": "Loius",
-          "type": "team_member",
-          "person_id": 1111
-        },
-        {
-          "name": "Stacy",
-          "type": "team_member",
-          "person_id": 1110
-        }
       ]
     }
   ]
